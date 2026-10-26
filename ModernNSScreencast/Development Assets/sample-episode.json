@@ -1,0 +1,36 @@
+{
+    "id": 1050,
+    "episode_number": 593,
+    "title": "Build an Ambient Noise Designer",
+    "slug": "593-audiokit-4",
+    "description": "In this episode we will be working with three different types of noise (Pink Noise, White Noise, and Brownian Noise) and will blend them to create an ambient space. We'll then work with Panners to move the sound from left to right. Finally we'll add reverb, a stereo field limiter, and an auto-pan timer to have the sound sweep across the stereo field.",
+    "published_at": "2025-05-08T13:42:00Z",
+    "updated_at": "2026-08-03T08:40:30Z",
+    "duration": 21,
+    "episode_type": "paid",
+    "artwork_urls": {
+        "small": "https://nsscreencast.imgix.net/593-audiokit-4/593-audiokit-4.png?w=200&fm=jpg&q=75",
+        "medium": "https://nsscreencast.imgix.net/593-audiokit-4/593-audiokit-4.png?w=800",
+        "large": "https://nsscreencast.imgix.net/593-audiokit-4/593-audiokit-4.png?w=1280"
+    },
+    "video_url": "/api/v2/episodes/1050/play",
+    "subtitle_url": "https://nsscreencast-uploads.s3.amazonaws.com/production/episode/subtitle/1050/593-audiokit-4.vtt",
+    "hls_url": "/api/v2/episodes/1050/hls",
+    "web_url": "/episodes/593-audiokit-4",
+    "show_notes_url": "/api/v2/episodes/1050/show_notes",
+    "download_size_bytes": 178024148,
+    "tags": [
+        "audio",
+        "swiftui",
+        "audiokit"
+    ],
+    "version_tags": [
+        "Swift-6.0",
+        "Xcode-16.2"
+    ],
+    "series_ids": [
+        64
+    ],
+    "newer_version_url": null
+}
+
